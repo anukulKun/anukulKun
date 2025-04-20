@@ -1,4 +1,4 @@
-Hello I'm Anukul 👋
+Hello I'm Anukul 👋 i build cool things on the internet.
 
 I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
