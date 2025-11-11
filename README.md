@@ -18,7 +18,7 @@ I also tried trading — and lost it all to option trading (character developmen
 ### 🧩 About Me
 - Former **Co-founder & CTO** at **Keizerworks**, a product studio that built tools for startup.  
 - **Ex-Intern at DRDO** (Ministry of Defence).  
-- **Hackathon enthusiast** — 6+ international wins, 12+ national, $10K+ in rewards.  
+- **Hackathon enthusiast** — 6 international wins, 10 national, $10K+ in rewards.  
 - Passionate about **building, scaling, and automating**.  
 - Currently exploring **DevOps**, **Rust**, and **system design**.  
 
