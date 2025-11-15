@@ -1,7 +1,6 @@
 # Hey, I'm Anukul 👋
 
 **I build. I break. I learn. I repeat.**  
-*Jack of all trades — master of building.*
 
 At 21, I’ve tried almost everything —  
 startups, hackathons, design, content creation, code, leadership, sleepless nights,  
