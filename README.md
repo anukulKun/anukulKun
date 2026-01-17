@@ -1,50 +1,52 @@
 # Hey, I'm Anukul 👋
 
-**I build. I break. I learn. I repeat.**  
+At 21, I’ve tried
+**Startups • Hackathons • Designing • Product Development • Digital Marketing • Animations • Content Creation • Trading**
 
-At 21, I’ve tried almost everything —  
-startups, hackathons, design, content creation, code, leadership, sleepless nights,  
-wins, failures, experiments, and constant reinvention.  
+If it can be shipped in a night — I probably did it during a hackathon.
 
-Still not giving up.  
-Still building.  
-Still challenging every day.  
+---
 
-Somewhere between coding sprints and hackathon nights,  
-I also tried trading — and lost it all to option trading (character development, I guess).  
+## Character Stats
 
+- Former **Co-founder & CTO @ Keizerworks** — product studio that built tools for startups  
+- Worked in **Digital Marketing @ a YC-backed startup**
+- **Ex-Intern @ DRDO (Ministry of Defence)**  
+- **Won 6 International Hackathons | 4 National**
+- Made **$10K** — then **donated it to the market** via option trading (character development arc)
 
-### 🧩 About Me
-- Former **Co-founder & CTO** at **Keizerworks**, a product studio that built tools for startup.  
-- **Ex-Intern at DRDO** (Ministry of Defence).  
-- **Hackathon enthusiast** — 6 international wins, 10 national, $10K+ in rewards.  
-- Passionate about **building, scaling, and automating**.  
-- Currently exploring **DevOps**, **Rust**, and **system design**.  
+---
 
+## Tech Stack
 
-### 🛠️ Technologies & Tools
+### 🎨 Frontend
+- React.js, Next.js  
+- Framer Motion, GSAP  
 
-- **Programming/Scripting Languages worked with:** C++, JavaScript, TypeScript, Rust, Python, Bash  
-- **Frontend Development:** React.js, Next.js, Tailwind CSS, Framer Motion, Vite  
-- **Backend Development:** Node.js, Express.js, Fastify, tRPC, REST, WebSockets  
-- **Mobile Development:**  React Native, Flutter 
-- **Databases:** PostgreSQL, MongoDB, Firebase, Redis
-- **DevOps Tools:** AWS (EC2, S3, Lambda), Docker, Nginx, CI/CD pipelines, PM2, Linux Administration  
-- **Version Control:** Git, GitHub Actions, GitHub Projects  
-- **Miscellaneous:** Vercel, Railway, DigitalOcean, Supabase, Arweave, GraphQL, Prisma  
+### ⚙️ Backend
+- Node.js, Express.js  
 
+### 🗄️ Databases
+- PostgreSQL, MongoDB  
+- Firebase  
 
-### 🚀 Current Focus
-- Mastering **DevOps & cloud architecture**  
-- Experimenting with **Rust-based backend**  
-- Building things that push limits (sometimes of the compiler)  
-- Winning hackathons, losing trades and learning faster  
+### 🧩 UI/UX + Design
+- Figma, Canva  
 
+### ☁️ Cloud / DevOps
+- AWS, Docker  
 
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/anukulKun](https://linkedin.com/in/anukulKun)  
-- **X (Twitter):** [@anukulKun](https://x.com/anukulKun)  
-- **Portfolio:** [anukul.me](https://anukulkun.vercel.app)
+---
 
+## Currently 
+- Building AI Digital Marketing Company 
+- Learning AI & Marketing
 
-> “code. build. break. learn. repeat — till it makes sense.”
+---
+
+## Connect
+- LinkedIn: https://linkedin.com/in/anukulKun  
+- X: https://x.com/anukulKun  
+- Portfolio: https://anukulkun.xyz  
+
+> **Build. Ship. Repeat.**
