@@ -29,8 +29,7 @@ If it can be shipped in a night — I probably did it during a hackathon.
 
 
 ## Currently 
-- Building AI Digital Marketing Company 
-- Learning AI & Marketing
+- Building HertZ
 
 
 ## Connect
