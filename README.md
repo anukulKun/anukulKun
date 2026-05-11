@@ -1,7 +1,5 @@
 # Hey, I'm Anukul 👋
 
-Full-stack developer & community builder — I love turning ideas into products.
-
 At 21, I’ve tried  
 **Startups • Hackathons • Designing • Product Development • Digital Marketing • Animations • Content Creation • Trading**
 
