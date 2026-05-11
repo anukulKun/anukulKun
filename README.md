@@ -1,7 +1,7 @@
 # Hey, I'm Anukul 👋
 
-> Full-stack developer & community builder — I love turning ideas into products.
-> I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
+Full-stack developer & community builder — I love turning ideas into products.
+I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
 At 21, I’ve tried  
 **Startups • Hackathons • Designing • Product Development • Digital Marketing • Animations • Content Creation • Trading**
