@@ -12,8 +12,8 @@ If it can be shipped in a night — I probably did it during a hackathon.
 - Former **Co-founder & CTO @ Keizerworks** — product studio that built tools for startups  
 - Worked in **Digital Marketing @ YC-backed startup**
 - **Ex-Intern @ DRDO (Ministry of Defence)**  
-- **Won 6 International Hackathons | 4 National**
-- Made **$10K** — then **donated it to the market** via option trading (character development arc)
+- **Won 20 International Hackathons | 4 National**
+- Made **$10K** — then **donated it to the market** via F&O (character development arc)
 
 
 
@@ -28,7 +28,7 @@ If it can be shipped in a night — I probably did it during a hackathon.
 
 
 ## Currently 
-- Building HertZ
+- building a marketing company cuz every (good) product needs to be found.
 
 
 ## Connect
